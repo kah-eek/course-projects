@@ -11,7 +11,7 @@ This repository is a collection of projects I've developed for various courses. 
 Here's a list of the courses I've completed and the corresponding projects:
 
 1. [**Cryptography**](https://github.com/0xc41qu3/alura/tree/main/cryptography)
-2. [**Functional approach using JavaScript**](https://github.com/0xc41qu3/alura/tree/main/js_using_a_functional_approach)
+2. [**Functional approach using JavaScript**](https://github.com/0xc41qu3/course-projects/tree/main/jsFunctionalApproach)
 
 Feel free to explore each project's directory to learn more about the specific technologies and concepts I've applied.
 
