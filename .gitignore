@@ -1,0 +1,26 @@
+# Node.js modules.
+node_modules/
+
+# Log files.
+*.log
+
+# Finder settings files (MacOS).
+.DS_Store
+
+# npm's lockfiles.
+# We're using pnpm and it provides its own lockfile.
+package-lock.json
+npm-shrinkwrap.json
+
+# Yarn's lockfile, Plug'n'Play, folder and settings.
+# We're using pnpm and it provide its own lockfile and settings.
+yarn.lock
+.pnp.*
+.yarn/
+.yarnrc
+.yarnrc.yaml
+
+# pnpm's lockfile.
+# The only allowed pnpm lockfile is the root one.
+**/pnpm-lock.yaml
+!/pnpm-lock.yaml
